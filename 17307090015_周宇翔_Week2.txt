@@ -33,7 +33,7 @@ take effect = go into effect
 ready to act 采取行动
 implement measures 实施措施
 traffic volume 交通流量
-extend a period延长时期
+extend a period 延长时期
 grant a request 考虑要求
 merit additional time to 允许更多时间去
 accommodate comments 收集意见
